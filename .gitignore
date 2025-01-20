@@ -41,3 +41,4 @@ __generated__
 *.graphqls.d.ts
 
 TODO.MD
+.vercel

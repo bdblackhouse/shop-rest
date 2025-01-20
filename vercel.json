@@ -1,11 +1,11 @@
 {
   "env": {
-    "NEXT_PUBLIC_REST_API_ENDPOINT": "Add your REST API",
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "https://api.bdblackhouse.com",
     "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "Stripe Payment Key",
     "NEXT_PUBLIC_GOOGLE_MAP_API_KEY": "Google Map Key",
-    "NEXT_PUBLIC_SITE_URL": "Shop Frontend URL",
-    "NEXTAUTH_URL": "Shop Frontend URL",
-    "SECRET": "Random 32 Hash Key",
+    "NEXT_PUBLIC_SITE_URL": "https://bdblackhouse.com",
+    "NEXTAUTH_URL": "https://bdblackhouse.com",
+    "SECRET": "bebd67f1afa968b21b83c27d92acb8ba",
     "GOOGLE_CLIENT_ID": "Google Client Key",
     "GOOGLE_CLIENT_SECRET": "Google Client Secret",
     "REVALIDATE_DURATION": "120",
@@ -16,12 +16,12 @@
   },
   "build": {
     "env": {
-      "NEXT_PUBLIC_REST_API_ENDPOINT": "Add your REST API",
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://api.bdblackhouse.com",
       "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "Stripe Payment Key",
       "NEXT_PUBLIC_GOOGLE_MAP_API_KEY": "Google Map Key",
-      "NEXT_PUBLIC_SITE_URL": "Shop Frontend URL",
-      "NEXTAUTH_URL": "Shop Frontend URL",
-      "SECRET": "Random 32 Hash Key",
+      "NEXT_PUBLIC_SITE_URL": "https://bdblackhouse.com",
+      "NEXTAUTH_URL": "https://bdblackhouse.com",
+      "SECRET": "bebd67f1afa968b21b83c27d92acb8ba",
       "GOOGLE_CLIENT_ID": "Google Client Key",
       "GOOGLE_CLIENT_SECRET": "Google Client Secret",
       "REVALIDATE_DURATION": "120",
