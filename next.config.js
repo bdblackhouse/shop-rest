@@ -28,6 +28,7 @@ module.exports = withPWA({
       'cdninstagram.com',
       'scontent.cdninstagram.com',
       'lh3.googleusercontent.com',
+      'ecommerce.globalazmain.com',
     ],
   },
 
