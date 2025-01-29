@@ -62,22 +62,22 @@ export const menu = [
           {
             id: 1,
             path: '/search?category=men',
-            label: 'menu-men\'s',
+            label: 'Men\'s',
             columnItemItems: [
               {
                 id: 1,
                 path: '/search?category=men',
-                label: 'menu-hoodies',
+                label: 'Hoodies',
               },
               {
                 id: 2,
                 path: '/search?category=men',
-                label: 'menu-sweatshirts',
+                label: 'Sweatshirts',
               },
               {
                 id: 3,
                 path: '/search?category=men',
-                label: 'menu-t-shirts',
+                label: 'T shirts',
               },
               {
                 id: 4,
