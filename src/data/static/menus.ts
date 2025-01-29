@@ -3,61 +3,56 @@ export const menu = [
     id: 1,
     path: '/search?category=men',
     label: "Men's",
-    columns: [
+    subMenu: [
       {
         id: 1,
-        columnItems: [
+        path: '/search?category=men',
+        label: "Men's",
+        columnItemItems: [
           {
             id: 1,
             path: '/search?category=men',
-            label: "Men's",
-            columnItemItems: [
-              {
-                id: 1,
-                path: '/search?category=men',
-                label: 'Hoodies',
-              },
-              {
-                id: 2,
-                path: '/search?category=men',
-                label: 'Sweatshirts',
-              },
-              {
-                id: 3,
-                path: '/search?category=men',
-                label: 'T shirts',
-              },
-              {
-                id: 4,
-                path: '/search?category=men',
-                label: 'Shirts',
-              },
-              {
-                id: 5,
-                path: '/search?category=men',
-                label: 'Panjabis',
-              },
-              {
-                id: 6,
-                path: '/search?category=men',
-                label: 'Jackets',
-              },
-              {
-                id: 7,
-                path: '/search?category=men',
-                label: 'Trousers',
-              },
-              {
-                id: 8,
-                path: '/search?category=men',
-                label: 'Jeans',
-              },
-              {
-                id: 8,
-                path: '/search?category=men',
-                label: 'Polo T-Shirts',
-              },
-            ],
+            label: 'Hoodies',
+          },
+          {
+            id: 2,
+            path: '/search?category=men',
+            label: 'Sweatshirts',
+          },
+          {
+            id: 3,
+            path: '/search?category=men',
+            label: 'T shirts',
+          },
+          {
+            id: 4,
+            path: '/search?category=men',
+            label: 'Shirts',
+          },
+          {
+            id: 5,
+            path: '/search?category=men',
+            label: 'Panjabis',
+          },
+          {
+            id: 6,
+            path: '/search?category=men',
+            label: 'Jackets',
+          },
+          {
+            id: 7,
+            path: '/search?category=men',
+            label: 'Trousers',
+          },
+          {
+            id: 8,
+            path: '/search?category=men',
+            label: 'Jeans',
+          },
+          {
+            id: 8,
+            path: '/search?category=men',
+            label: 'Polo T-Shirts',
           },
         ],
       },
@@ -97,6 +92,45 @@ export const menu = [
         id: 6,
         path: '/search?category=women',
         label: 'Kids',
+      },
+    ],
+  },
+  {
+    id: 3,
+    path: '/search?category=',
+    label: 'Hoodies & Sweatshirts',
+    subMenu: [
+      {
+        id: 1,
+        path: '/search?category=',
+        label: 'T-Shirts',
+      },
+      {
+        id: 2,
+        path: '/search?category=',
+        label: 'Pants & Shorts',
+      },
+      {
+        id: 3,
+        path: '/search?category=',
+        label: 'Flash',
+      },
+    ],
+  },
+  {
+    id: 4,
+    path: '/search?category=',
+    label: 'Clearance Items',
+    subMenu: [
+      {
+        id: 1,
+        path: '/search?category=',
+        label: 'Discounts & Offers',
+      },
+      {
+        id: 2,
+        path: '/search?category=',
+        label: 'Flash Sale',
       },
     ],
   },
