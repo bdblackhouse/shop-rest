@@ -24,12 +24,12 @@ export const masonryBanner = [
     slug: 'new-sports',
     image: {
       mobile: {
-        url: '/assets/images/banner/masonry/banner-mobile-2.jpg',
+        url: 'http://ecommerce.globalazmain.com/storage/banner/banner-2.jpg',
         width: 232,
         height: 232,
       },
       desktop: {
-        url: '/assets/images/banner/masonry/banner-2.jpg',
+        url: 'http://ecommerce.globalazmain.com/storage/banner/banner-2.jpg',
         width: 425,
         height: 425,
       },
