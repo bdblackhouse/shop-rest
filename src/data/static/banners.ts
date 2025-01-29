@@ -287,12 +287,12 @@ export const modernDemoProductBanner = [
     slug: 'flash-sale',
     image: {
       mobile: {
-        url: '/assets/images/banner/banner-sale-offer.jpg',
+        url: 'http://ecommerce.globalazmain.com/storage/banner/banner-1.jpg',
         width: 430,
         height: 600,
       },
       desktop: {
-        url: '/assets/images/banner/banner-sale-offer.jpg',
+        url: 'http://ecommerce.globalazmain.com/storage/banner/banner-1.jpg',
         width: 430,
         height: 600,
       },
