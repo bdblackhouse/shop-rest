@@ -2,16 +2,16 @@
 export const masonryBanner = [
   {
     id: 1,
-    title: "Men's Collection",
-    slug: 'mens-collection',
+    title: "Black house & Azmain",
+    slug: 'black-house-and-azmain',
     image: {
       mobile: {
-        url: '/assets/images/banner/masonry/banner-mobile-1.jpg',
+        url: 'http://ecommerce.globalazmain.com/storage/banner/banner-1.jpg',
         width: 470,
         height: 232,
       },
       desktop: {
-        url: '/assets/images/banner/masonry/banner-1.jpg',
+        url: 'http://ecommerce.globalazmain.com/storage/banner/banner-1.jpg',
         width: 1078,
         height: 425,
       },
