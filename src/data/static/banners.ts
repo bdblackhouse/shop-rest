@@ -250,12 +250,12 @@ export const modernDemoBanner = [
     slug: 'winter-collection',
     image: {
       mobile: {
-        url: '/assets/images/banner/banner-mobile-3.jpg',
+        url: '/assets/images/banner/banner-2.jpg',
         width: 450,
         height: 180,
       },
       desktop: {
-        url: '/assets/images/banner/banner-3.jpg',
+        url: '/assets/images/banner/banner-2.jpg',
         width: 1800,
         height: 570,
       },
@@ -267,12 +267,12 @@ export const modernDemoBanner = [
     slug: 'winter-offer',
     image: {
       mobile: {
-        url: '/assets/images/banner/banner-mobile-4.jpg',
+        url: '/assets/images/banner/banner-1.jpg',
         width: 450,
         height: 130,
       },
       desktop: {
-        url: '/assets/images/banner/banner-4.jpg',
+        url: '/assets/images/banner/banner-1.jpg',
         width: 1800,
         height: 420,
       },
@@ -414,12 +414,12 @@ export const standardDemoPromotionBanner = [
     slug: 'mens-collection',
     image: {
       mobile: {
-        url: '/assets/images/banner/small/banner-mobile-1.jpg',
+        url: '/assets/images/banner/banner-1.jpg',
         width: 450,
         height: 150,
       },
       desktop: {
-        url: '/assets/images/banner/small/banner-1.jpg',
+        url: '/assets/images/banner/banner-1.jpg',
         width: 580,
         height: 360,
       },
@@ -431,12 +431,12 @@ export const standardDemoPromotionBanner = [
     slug: 'womens-collection',
     image: {
       mobile: {
-        url: '/assets/images/banner/small/banner-mobile-2.jpg',
+        url: '/assets/images/banner/banner-2.jpg',
         width: 450,
         height: 150,
       },
       desktop: {
-        url: '/assets/images/banner/small/banner-2.jpg',
+        url: '/assets/images/banner/banner-2.jpg',
         width: 580,
         height: 360,
       },
@@ -448,12 +448,12 @@ export const standardDemoPromotionBanner = [
     slug: 'kids-collection',
     image: {
       mobile: {
-        url: '/assets/images/banner/small/banner-mobile-3.jpg',
+        url: '/assets/images/banner/banner-1.jpg',
         width: 450,
         height: 150,
       },
       desktop: {
-        url: '/assets/images/banner/small/banner-3.jpg',
+        url: '/assets/images/banner/banner-1.jpg',
         width: 580,
         height: 360,
       },
@@ -465,12 +465,12 @@ export const standardDemoPromotionBanner = [
     slug: 'womens-collection',
     image: {
       mobile: {
-        url: '/assets/images/banner/small/banner-mobile-2.jpg',
+        url: '/assets/images/banner/banner-2.jpg',
         width: 450,
         height: 150,
       },
       desktop: {
-        url: '/assets/images/banner/small/banner-2.jpg',
+        url: '/assets/images/banner/banner-2.jpg',
         width: 580,
         height: 360,
       },
@@ -482,12 +482,12 @@ export const standardDemoPromotionBanner = [
     slug: 'mens-collection',
     image: {
       mobile: {
-        url: '/assets/images/banner/small/banner-mobile-1.jpg',
+        url: '/assets/images/banner/banner-1.jpg',
         width: 450,
         height: 150,
       },
       desktop: {
-        url: '/assets/images/banner/small/banner-1.jpg',
+        url: '/assets/images/banner/banner-1.jpg',
         width: 580,
         height: 360,
       },
@@ -499,12 +499,12 @@ export const standardDemoPromotionBanner = [
     slug: 'womens-collection',
     image: {
       mobile: {
-        url: '/assets/images/banner/small/banner-mobile-2.jpg',
+        url: '/assets/images/banner/banner-2.jpg',
         width: 450,
         height: 150,
       },
       desktop: {
-        url: '/assets/images/banner/small/banner-2.jpg',
+        url: '/assets/images/banner/banner-2.jpg',
         width: 580,
         height: 360,
       },
@@ -516,12 +516,12 @@ export const standardDemoPromotionBanner = [
     slug: 'kids-collection',
     image: {
       mobile: {
-        url: '/assets/images/banner/small/banner-mobile-3.jpg',
+        url: '/assets/images/banner/banner-1.jpg',
         width: 450,
         height: 150,
       },
       desktop: {
-        url: '/assets/images/banner/small/banner-3.jpg',
+        url: '/assets/images/banner/banner-3.jpg',
         width: 580,
         height: 360,
       },
