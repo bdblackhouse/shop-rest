@@ -54,7 +54,7 @@ export const menu = [
   {
     id: 2,
     path: '/search?category=men',
-    label: 'menu-men-wear',
+    label: 'Men\'s',
     columns: [
       {
         id: 1,
@@ -62,22 +62,22 @@ export const menu = [
           {
             id: 1,
             path: '/search?category=men',
-            label: 'menu-top-wear',
+            label: 'menu-men\'s',
             columnItemItems: [
               {
                 id: 1,
                 path: '/search?category=men',
-                label: 'menu-t-shirt',
+                label: 'menu-hoodies',
               },
               {
                 id: 2,
                 path: '/search?category=men',
-                label: 'menu-casual-shirts',
+                label: 'menu-sweatshirts',
               },
               {
                 id: 3,
                 path: '/search?category=men',
-                label: 'menu-formal-shirts',
+                label: 'menu-t-shirts',
               },
               {
                 id: 4,
